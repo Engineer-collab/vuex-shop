@@ -15,7 +15,7 @@ export default {
                 {
                   id: 'p2',
                   image:
-                    'https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/Tent_at_High_Shelf_Camp_cropped.jpg/640px-Tent_at_High_Shelf_Camp_cropped.jpg',
+                  'https://www.theadventurejunkies.com/wp-content/uploads/best_mountaineering_tent-1200x520.jpg',
                   title: 'Mountain Tent',
                   description: 'A tent for the ambitious outdoor tourist.',
                   price: 129.99,
